@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Bold'), local('InterUI-Bold'),
+        url('InterUI-Bold.woff2') format('woff2'),
+        url('InterUI-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Bold Italic'), local('InterUI-BoldItalic'),
+        url('InterUI-BoldItalic.woff2') format('woff2'),
+        url('InterUI-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Extra Bold'), local('InterUI-ExtraBold'),
+        url('InterUI-ExtraBold.woff2') format('woff2'),
+        url('InterUI-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Thin Italic'), local('InterUI-ThinItalic'),
+        url('InterUI-ThinItalic.woff2') format('woff2'),
+        url('InterUI-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Medium'), local('InterUI-Medium'),
+        url('InterUI-Medium.woff2') format('woff2'),
+        url('InterUI-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Regular'), local('InterUI-Regular'),
+        url('InterUI-Regular.woff2') format('woff2'),
+        url('InterUI-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Thin'), local('InterUI-Thin'),
+        url('InterUI-Thin.woff2') format('woff2'),
+        url('InterUI-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Italic'), local('InterUI-Italic'),
+        url('InterUI-Italic.woff2') format('woff2'),
+        url('InterUI-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Extra Light Italic'), local('InterUI-ExtraLightItalic'),
+        url('InterUI-ExtraLightItalic.woff2') format('woff2'),
+        url('InterUI-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Light Italic'), local('InterUI-LightItalic'),
+        url('InterUI-LightItalic.woff2') format('woff2'),
+        url('InterUI-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Semi Bold Italic'), local('InterUI-SemiBoldItalic'),
+        url('InterUI-SemiBoldItalic.woff2') format('woff2'),
+        url('InterUI-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Black Italic'), local('InterUI-BlackItalic'),
+        url('InterUI-BlackItalic.woff2') format('woff2'),
+        url('InterUI-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Black'), local('InterUI-Black'),
+        url('InterUI-Black.woff2') format('woff2'),
+        url('InterUI-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Extra Bold Italic'), local('InterUI-ExtraBoldItalic'),
+        url('InterUI-ExtraBoldItalic.woff2') format('woff2'),
+        url('InterUI-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Medium Italic'), local('InterUI-MediumItalic'),
+        url('InterUI-MediumItalic.woff2') format('woff2'),
+        url('InterUI-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Extra Light'), local('InterUI-ExtraLight'),
+        url('InterUI-ExtraLight.woff2') format('woff2'),
+        url('InterUI-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Light'), local('InterUI-Light'),
+        url('InterUI-Light.woff2') format('woff2'),
+        url('InterUI-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: local('Inter UI Semi Bold'), local('InterUI-SemiBold'),
+        url('InterUI-SemiBold.woff2') format('woff2'),
+        url('InterUI-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
